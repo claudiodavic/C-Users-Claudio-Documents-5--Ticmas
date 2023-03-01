@@ -1,0 +1,124 @@
+
+html{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+div#general{
+    width: 1100px;
+    height: 1200px;
+    background-color: rgb(158, 200, 241);
+    font-family: sans-serif;
+}
+
+
+div#columna1{
+    float: left;
+    width: 635px;
+    height: 290px;
+    background-color: rgb(139, 168, 212);
+}
+
+
+div#columna2{
+    float: right;
+    width: 465px;
+    height: 1200px;
+    background-color: rgba(8, 8, 8, 0.863);
+    text-align: center;
+}
+
+
+img{
+
+    width: 290px;
+    height: 290px;    
+}
+
+
+h1{
+    text-align: right;
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+
+h2{
+    text-align: right;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+
+h3{
+    color: rgb(158, 200, 241);
+}
+
+
+a{
+    font-weight: bold;
+    color:gray;
+    margin-left: 10px;
+    text-decoration-line: none;
+}
+
+
+p{
+    color: rgb(158, 200, 241);
+    font-size: 20px;   
+}
+
+
+p1{ 
+    font-weight: bold;
+    color:black;
+    text-decoration: underline;
+}
+
+
+p2{
+    margin-left: 10px;
+}
+
+
+li{
+    margin-left: 10px;
+}
+
+
+div#encabezado{
+    margin: auto;
+    margin-top: 80px;
+    text-align: center;
+}
+
+
+div#datos{
+    margin: auto;
+    padding-top: 5px;
+    padding-right: 10px;
+    float: right;
+    width: 970px;
+    height: 155px;
+    background-color: rgb(34, 32, 32);   
+}
+
+
+div#lista{
+
+    margin-left: 10px;
+}
+
+
+div#skillsoft{   
+    color: rgb(158, 200, 241);
+}
+
+
+div#boton{
+    background-color: rgb(158, 200, 241);
+    text-align: right;
+    text-decoration: none;
+    margin-right: 25px; 
+}
